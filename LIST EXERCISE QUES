@@ -1,0 +1,7 @@
+items=["pencil","eraser","sharpner","scale","pen"]
+if "black_pen" in items:
+    print("yes")
+else:
+    print("No")
+#output:
+No
